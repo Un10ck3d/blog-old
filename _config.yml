@@ -31,6 +31,10 @@ github_username:  Un10ck3d
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-typogrify
+
+gems:
+- jekyll-typogrify
 
 # Exclude from processing.
 # The following items will not be processed, by default.
