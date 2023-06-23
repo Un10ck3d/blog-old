@@ -27,14 +27,6 @@ url: "https://blog.jonathanbangert.com" # the base hostname & protocol for your 
 #twitter_username: jekyllrb
 github_username:  Un10ck3d
 
-Navigation:
-- title: Home
-  url: /
-- title: Website
-  url: "https://blog.jonathanbangert.com"
-- title: About
-  url: /about
-
 # Build settings
 theme: minima
 plugins:
