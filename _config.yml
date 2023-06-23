@@ -27,14 +27,19 @@ url: "https://blog.jonathanbangert.com" # the base hostname & protocol for your 
 #twitter_username: jekyllrb
 github_username:  Un10ck3d
 
+Navigation:
+- title: Home
+  url: /
+- title: Website
+  url: "https://blog.jonathanbangert.com"
+- title: About
+  url: /about
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-typogrify
-
-gems:
-- jekyll-typogrify
 
 # Exclude from processing.
 # The following items will not be processed, by default.
